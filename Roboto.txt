@@ -1,3 +1,0 @@
-The latest version of the Roboto and Roboto Condensed fonts can be found here:
-
-https://github.com/google/roboto/archive/latest-hinted.zip
